@@ -1,0 +1,21 @@
+{
+  "id": "StaleMoves",
+  "name": "Stale Moves",
+  "description": "Skills and items weaken through repeated use",
+  "version": "1.0.0",
+  "files": {
+    "plugins": [
+      "plugins/"
+    ],
+    "text": [],
+    "data": [],
+    "data_pluto": [],
+    "maps": [],
+    "assets": [],
+    "exec": [],
+    "plugins_delta": [],
+    "text_delta": [],
+    "maps_delta": [],
+    "data_delta": []
+  }
+}

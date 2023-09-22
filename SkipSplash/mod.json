@@ -1,0 +1,9 @@
+{
+  "id": "skipsplash",
+  "name": "Skip Splash Screens",
+  "description": "by VykosX",
+  "version": "1.0.0",
+  "files": {
+    "plugins": ["VykosX-SkipSplashScreen.js"]
+  }
+}
