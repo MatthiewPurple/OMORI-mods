@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/57/note",
+    "value": "<EnergyCost: 20>\n<HideInMenu>\n"
+  },
+  {
+    "op": "replace",
+    "path": "/56/note",
+    "value": "<EnergyCost: 20>\n<HideInMenu>\n"
+  },
+  {
+    "op": "replace",
+    "path": "/52/note",
+    "value": "<ChainSkillIcon: 2>\n<ChainSkillEnergyRelease>\n<EnergyCost: 20>\n<HideInMenu>\n<AntiFail>\n\n<setup action>\neval: $gameScreen.showPicture(3, \"release_energy[5x7]\", 0,0,0,100,100,0,0)\neval: $gameTroop._interpreter.setupPictureCustomFrames(3, 3200, 3360, 5, 7)\neval: $gameScreen.picture(3).setCustomFrameIndex(0)\nwait: 10\nanimation 243: target\nwait: 40\n</setup action>\n\n<whole action>\n</whole action>\n\n<target action>\n</target action>\n\n<follow action>\ncommon event: 937\n</follow action>\n\n<Custom Requirement>\nif ($gameActors.actor(2).isDead()) {\n    value = false;\n} else if ($gameActors.actor(3).isDead()){\n    value = false;\n} else if ($gameActors.actor(4).isDead()){\n    value = false;\n} else {\n    if($gameParty.members().length < 4) {\n        value = false\n    }\n    else {value = true;}\n}\n\n</Custom Requirement>\n"
+  }
+]

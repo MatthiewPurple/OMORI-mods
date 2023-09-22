@@ -1,0 +1,38 @@
+[
+  {
+    "op": "add",
+    "path": "/4/learnings/16",
+    "value": {
+      "level": 6,
+      "note": "",
+      "skillId": 1551
+    }
+  },
+  {
+    "op": "add",
+    "path": "/3/learnings/14",
+    "value": {
+      "level": 5,
+      "note": "",
+      "skillId": 1551
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2/learnings/14",
+    "value": {
+      "level": 7,
+      "note": "",
+      "skillId": 1551
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/16",
+    "value": {
+      "level": 8,
+      "note": "",
+      "skillId": 1551
+    }
+  }
+]

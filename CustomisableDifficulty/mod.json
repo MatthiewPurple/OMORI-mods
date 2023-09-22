@@ -1,0 +1,31 @@
+{
+  "id": "CustomisableDifficulty",
+  "name": "Customisable Difficulty",
+  "description": "Lets you change the game difficulty",
+  "version": "1.9.1",
+  "files": {
+    "plugins": [
+      "plugins/"
+    ],
+    "text": [],
+    "data": [],
+    "data_pluto": [],
+    "maps": [],
+    "assets": [],
+    "exec": [],
+    "plugins_delta": [],
+    "text_delta": [],
+    "maps_delta": [],
+    "data_delta": [
+      "data_delta/"
+    ]
+  },
+  "image_deltas": [
+    {
+      "patch":"img/faces/",
+      "with":"image_deltas/faces/",
+      "dir":true
+    }
+  ],
+  "_flags": ["do_olid"]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HowManySkills",
+  "name": "How Many Skills ?",
+  "description": "Change how many skills you can have equipped at once",
+  "version": "1.0.0",
+  "files": {
+    "plugins": [
+      "plugins/"
+    ],
+    "text": [],
+    "data": [],
+    "data_pluto": [],
+    "maps": [],
+    "assets": [],
+    "exec": [],
+    "plugins_delta": [],
+    "text_delta": [],
+    "maps_delta": [],
+    "data_delta": []
+  }
+}

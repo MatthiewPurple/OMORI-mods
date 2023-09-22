@@ -1,0 +1,31 @@
+{
+  "id": "RevivableOmori",
+  "name": "Revivable Omori",
+  "description": "The fight is not over until everyone is down",
+  "version": "1.1.5",
+  "files": {
+    "plugins": [
+      "plugins/"
+    ],
+    "text": [],
+    "data": [],
+    "data_pluto": [],
+    "maps": [],
+    "assets": [],
+    "exec": [],
+    "plugins_delta": [],
+    "text_delta": [],
+    "maps_delta": [],
+    "data_delta": [
+      "data_delta/"
+    ]
+  },
+  "image_deltas": [
+    {
+      "patch":"img/faces/",
+      "with":"image_deltas/faces/",
+      "dir":true
+    }
+  ],
+  "_flags": ["do_olid"]
+}

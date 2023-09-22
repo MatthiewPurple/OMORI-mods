@@ -1,0 +1,22 @@
+{
+  "id": "PersuadeSkill",
+  "name": "Persuade Skill",
+  "description": "Adds a skill that allows you to transfer your EMOTION",
+  "version": "1.0.0",
+  "files": {
+    "plugins": [],
+    "text": [],
+    "data": [],
+    "data_pluto": [],
+    "maps": [],
+    "assets": [],
+    "exec": [],
+    "plugins_delta": [],
+    "text_delta": [],
+    "maps_delta": [],
+    "data_delta": [
+      "data_delta/Classes.jsond",
+      "data_delta/Skills.jsond"
+    ]
+  }
+}

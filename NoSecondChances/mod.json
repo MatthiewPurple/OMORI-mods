@@ -1,0 +1,21 @@
+{
+  "id": "NoSecondChances",
+  "name": "No Second Chances",
+  "description": "Removes the \"OMORI did not succumb\" mechanic",
+  "version": "1.0.1",
+  "files": {
+    "plugins": [],
+    "text": [],
+    "data": [],
+    "data_pluto": [],
+    "maps": [],
+    "assets": [],
+    "exec": [],
+    "plugins_delta": [],
+    "text_delta": [],
+    "maps_delta": [],
+    "data_delta": [
+      "data_delta/"
+    ]
+  }
+}

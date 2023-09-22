@@ -1,0 +1,21 @@
+{
+  "id": "99energy",
+  "name": "99 Energy",
+  "description": "Caps the ENERGY bar at 99 instead of 10",
+  "version": "1.1.0",
+  "files": {
+    "plugins": [
+      "plugins/"
+    ],
+    "text": [],
+    "data": [],
+    "data_pluto": [],
+    "maps": [],
+    "assets": [],
+    "exec": [],
+    "plugins_delta": [],
+    "text_delta": [],
+    "maps_delta": [],
+    "data_delta": []
+  }
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "op": "add",
+    "path": "/4/learnings/16",
+    "value": {
+      "level": 6,
+      "note": "",
+      "skillId": 1551
+    }
+  },
+  {
+    "op": "add",
+    "path": "/3/learnings/14",
+    "value": {
+      "level": 5,
+      "note": "",
+      "skillId": 1551
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2/learnings/14",
+    "value": {
+      "level": 7,
+      "note": "",
+      "skillId": 1551
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/16",
+    "value": {
+      "level": 13,
+      "note": "",
+      "skillId": 1564
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/17",
+    "value": {
+      "level": 21,
+      "note": "",
+      "skillId": 1565
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/18",
+    "value": {
+      "level": 8,
+      "note": "",
+      "skillId": 1566
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/19",
+    "value": {
+      "level": 11,
+      "note": "",
+      "skillId": 1568
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/20",
+    "value": {
+      "level": 27,
+      "note": "",
+      "skillId": 1569
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/21",
+    "value": {
+      "level": 23,
+      "note": "",
+      "skillId": 1570
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/22",
+    "value": {
+      "level": 17,
+      "note": "",
+      "skillId": 1571
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/23",
+    "value": {
+      "level": 29,
+      "note": "",
+      "skillId": 1573
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1/learnings/24",
+    "value": {
+      "level": 32,
+      "note": "",
+      "skillId": 1574
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "NoRetries",
+  "name": "No Retries",
+  "description": "Dying sends you directly to the title screen",
+  "version": "1.0.0",
+  "files": {
+    "plugins": [
+      "plugins/"
+    ],
+    "text": [],
+    "data": [],
+    "data_pluto": [],
+    "maps": [],
+    "assets": [],
+    "exec": [],
+    "plugins_delta": [],
+    "text_delta": [],
+    "maps_delta": [],
+    "data_delta": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "quickload",
+  "name": "Quick Load on Start",
+  "description": "by VykosX",
+  "version": "1.0.0",
+  "files": {
+    "plugins": ["VykosX-QuickLoadOnStart.js"]
+  }
+}
